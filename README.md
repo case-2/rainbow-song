@@ -1,2 +1,5 @@
 # rainbow-song
-a rainbow song repo.
+
+A song about rainbows in the key of C major.
+
+The song is a happy song.
